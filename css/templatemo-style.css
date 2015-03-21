@@ -42,7 +42,7 @@ p {
 }
 
 body {
-  background-color: #eee!important;
+  background-color: #eaeae5 !important;
   overflow-x: hidden;
 }
 
@@ -570,7 +570,7 @@ body {
 /*FOOTER*/
 
 footer {
-  background-color: #6D6D6D;
+  background-color: #eaeae5;
   text-align: center;
 }
 
@@ -582,16 +582,15 @@ footer {
 
 
 .copyright-text p {
-  text-transform: uppercase;
   margin-top: 20px;
   font-size: 12px;
-  color: #fff;
+  color: #6D6D6D;
   font-weight: 300;
   padding-bottom: 10px;
 }
 
 .copyright-text a {
-  color: #fff !important;
+  color: #6D6D6D !important;
   text-decoration: none!important;
 }
 
